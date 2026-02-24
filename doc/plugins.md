@@ -206,6 +206,8 @@ The list of plugins:
   — add an improved image syntax
 * 🟢 [`remark-img-links`](https://github.com/Pondorasti/remark-img-links)
   — prefix relative image paths with an absolute URL
+* 🟢 [`@it-service-npm/remark-include`](https://github.com/IT-Service-NPM/remark-include)
+  — add `::include{file=path.md}` statements to compose markdown files together
 * 🟢 [`remark-inline-links`](https://github.com/remarkjs/remark-inline-links)
   — change references and definitions to links and images
 * 🟢 [`remark-ins`](https://github.com/ipikuka/remark-ins)
